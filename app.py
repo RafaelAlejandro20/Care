@@ -1,3 +1,5 @@
+import
+
 print('Hola mundo')
 
 dato = 5
@@ -9,3 +11,4 @@ lista.add(5)
 print(lista)
 
 lista.add(10)
+
