@@ -5,3 +5,5 @@ dato = 5
 lista = []
 
 lista.add(5)
+
+print(lista)
