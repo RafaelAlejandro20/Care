@@ -7,3 +7,5 @@ lista = []
 lista.add(5)
 
 print(lista)
+
+lista.add(10)
