@@ -2,4 +2,6 @@ print('Hola mundo')
 
 dato = 5
 
-lista = [] 
+lista = []
+
+lista.add(5)
