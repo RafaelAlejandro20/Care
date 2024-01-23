@@ -12,4 +12,4 @@ print(lista)
 
 lista.add(10)
 
-datos [] 
+datos [1,2,3,4] 
